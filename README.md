@@ -5,7 +5,8 @@
 
 Currently I am working with ...
 
-<img width="290" height="297" alt="image" src="https://github.com/user-attachments/assets/9759da59-a885-4ee9-aa74-75a6bac2c808" />
+<img width="420" height="415" alt="image" src="https://github.com/user-attachments/assets/946757d7-b291-48b0-9c42-a1ef444f53bc" />
+
 
 
 📧 Email: sorabuddinmallick@gmail.com  
