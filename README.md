@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hello, I'm Sorabuddin Mallick  
 
 🚀 **Red Hat Certified Engineer (RHCE, RHCSA) | Cloud & DevOps Engineer | Server Administrator**  
